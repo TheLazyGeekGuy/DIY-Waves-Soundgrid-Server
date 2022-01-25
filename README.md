@@ -1,7 +1,12 @@
-# DIY-Waves-Soundgrid-Server
-DIY Waves Soundgrid Server
+# DIY Waves Soundgrid Server
 
 Based on this thread (or [URL="https://www.*********************842878673081651/"]this one on FB[/URL]) I've made a compilation  of working configuration for myself, looking for cheap SFF tower. H-Reverb test missing for most of the time (performance under studiorack @44khz ).
+
+
+| Componant        |                  |
+|----              |----              |
+| CPU              | Intel CPU        |
+| Network          | Intel or Some Realtek based NIC card |
 
 
 ### Waves official configurations 
@@ -9,11 +14,11 @@ Based on this thread (or [URL="https://www.*********************842878673081651/
 |                  |                                                                                                                          |     |
 |----              |----                                                                                                                      |---- |
 |[Proton Server](https://www.waves.com/1lib/pdf/hardware/proton-server-a-e-spec.pdf) (-) | J4105AEL2 Intel® Celeron® J4105                    |     |
-Server One-C (+) : Gigabyte GA-B150N-GSM - Core I5 ([URL="https://www.waves.com/1lib/pdf/hardware/server-one-c-a-e-spec.pdf"]source[/URL])
-[*]Mobile Server  (+) : [B]Nano-6000C[/B] -  i5-6200u
-[*]Extreme Server (+++) : [B]Gigabyte GA-H81N[/B] - i5-4590K - [URL="https://www.waves.com/hardware/soundgrid-extreme-server#tab-tech-specs"]14 H-reverb[/URL]
-[*]Impact Server C X9 (+++): [B]Gigabyte GA-B150N-GSM[/B] – Intel® Coffee Lake i7-9700 8g ([URL="https://www.waves.com/1lib/pdf/hardware/extreme-server-c-x9-a-e-spec.pdf"]source[/URL])
-[*] Extreme Server-C : [B]Gigabyte GA-B360N-GSM [/B]v1.0 -  Intel® Coffee Lake i7 8 Core - [URL="https://www.waves.com/hardware/soundgrid-extreme-server-c#tab-tech-specs"]14 H- reverb[/URL]
+|Server One-C (+) : Gigabyte GA-B150N-GSM - Core I5 ([URL="https://www.waves.com/1lib/pdf/hardware/server-one-c-a-e-spec.pdf"]source[/URL])
+|Mobile Server  (+) : [B]Nano-6000C[/B] -  i5-6200u
+|Extreme Server (+++) : [B]Gigabyte GA-H81N[/B] - i5-4590K - [URL="https://www.waves.com/hardware/soundgrid-extreme-server#tab-tech-specs"]14 H-reverb[/URL]
+|Impact Server C X9 (+++): [B]Gigabyte GA-B150N-GSM[/B] – Intel® Coffee Lake i7-9700 8g ([URL="https://www.waves.com/1lib/pdf/hardware/extreme-server-c-x9-a-e-spec.pdf"]source[/URL])
+| Extreme Server-C : [B]Gigabyte GA-B360N-GSM [/B]v1.0 -  Intel® Coffee Lake i7 8 Core - [URL="https://www.waves.com/hardware/soundgrid-extreme-server-c#tab-tech-specs"]14 H- reverb[/URL]
 [/LIST]
 
 Should work :  Intel CPU based configuration with Intel or Some Realtek based NIC card 
