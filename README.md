@@ -1,6 +1,8 @@
 # DIY Waves Soundgrid Server
 
-This page is a compilation on what you'll find on GearSpace or facebook. 
+This page is a compilation on what you'll find on [GearSpace](https://gearspace.com/board/music-computers/1311451-diy-waves-soundgrid-server-2020-edition.html) thanks to `krabbencutter` or [facebook](https://www.facebook.com/groups/842878673081651) thanks to `Kalfelz Wusik William`. 
+
+No source code will be provided.
 
 ## Configurations
 
@@ -10,7 +12,7 @@ This page is a compilation on what you'll find on GearSpace or facebook.
 | Componant        |                                                             |
 |----              |----                                                         |
 | CPU              | Intel CPU `only ` - i5 or i7 6th gen mininimum recommanded  |
-| RAM              | 8Go - no more needed                                        |
+| RAM              | 4Go - no more needed                                        |
 | Network          | Intel or Some Realtek - 1 Ethernet Port ``only ``           |
 | Drive            | USB Flash Drive[^warning]                                   |
 
