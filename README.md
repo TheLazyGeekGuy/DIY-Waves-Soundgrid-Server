@@ -7,12 +7,12 @@ This page is a compilation on what you'll find on GearSpace or facebook.
 
 ### Configurations requirements
 
-| Componant        |                                                        |
-|----              |----                                                    |
-| CPU              | Intel CPU `only `                                    |
-| RAM              | 8Go - no more needed                                   |
-| Network          | Intel or Some Realtek - 1 Ethernet Port ``only ``      |
-| Drive            | USB Flash Drive[^warning]                              |
+| Componant        |                                                             |
+|----              |----                                                         |
+| CPU              | Intel CPU `only ` - i5 or i7 6th gen mininimum recommanded  |
+| RAM              | 8Go - no more needed                                        |
+| Network          | Intel or Some Realtek - 1 Ethernet Port ``only ``           |
+| Drive            | USB Flash Drive[^warning]                                   |
 
 
 [^warning]: Dont connect any other drive than the flash drive. 
@@ -92,6 +92,7 @@ This page is a compilation on what you'll find on GearSpace or facebook.
 
 ### Failed to work and will never be ...
 
+- HP Elitedesk 400 G7 i5 10500 : CPU or lan recognition failed
 - MSI B450M Mortar Max + Ryzen 3 1200
 - MSI 790FX-GD70 + Phenom II X4 965
 - Lenovo Thinkstation P340
