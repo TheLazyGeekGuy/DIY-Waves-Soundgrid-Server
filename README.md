@@ -1,19 +1,18 @@
 # DIY Waves Soundgrid Server
 
-Based on GearSpace or facebook I've made a compilation  of working configuration for myself, looking for cheap SFF tower. H-Reverb test missing for most of the time (performance under studiorack @44khz ).
-
+This page is a compilation on what you'll find on GearSpace or facebook. 
 
 ## Configurations
 
 
 ### Configurations requirements
 
-| Componant        |                  |
-|----              |----              |
-| CPU              | Intel CPU        |
-| CPU              | 8Go              |
-| Network          | Intel or Some Realtek based NIC card |
-| Drive            | USB Flash Drive[^warning] |
+| Componant        |                                                        |
+|----              |----                                                    |
+| CPU              | Intel CPU `only `                                    |
+| RAM              | 8Go - no more needed                                   |
+| Network          | Intel or Some Realtek - 1 Ethernet Port ``only ``      |
+| Drive            | USB Flash Drive[^warning]                              |
 
 
 [^warning]: Dont connect any other drive than the flash drive. 
@@ -24,13 +23,13 @@ Based on GearSpace or facebook I've made a compilation  of working configuration
 ### Waves official configurations 
 
 
-| Official / DIY   | MotherBoard / Config Name                   | CPU                               |   Form Factor  |H-Reverb Test | Price |
-|----              |----                                         |----                               |----            |----          |----   |
-| Official         |Polywell J4105AEL2[^1]                       | Intel® Celeron® J4105             |                |              |       |
-| Official         |Gigabyte GA-B150N-GSM [^2]                   | Core I5                           |                |              |       |
-| Official         |Nano-6000C[^3]                               | i5-6200u                          |                |              |       |
-| Official         |Gigabyte GA-H81N [^4]                        | i5-4590K                          |                |14            |       |
-| Official         |Gigabyte GA-B360N-GSM v1.0 [^5]              | Intel® Coffee Lake i7-9700        |                |              |       |
+| Official / DIY   | MotherBoard / Config Name                   | CPU                                  |   Form Factor  |H-Reverb Test | Price |
+|----              |----                                         |----                                  |----            |----          |----   |
+| Official         |Polywell J4105AEL2[^1]                       |Celeron J4105                         |----            |----          |----   |
+| Official         |Gigabyte GA-B150N-GSM [^2]                   |i5                                    |----            |----          |----   |
+| Official         |Portwell Nano-6000C[^3]                      |i5 6200u                              |----            |----          |----   |
+| Official         |Gigabyte GA-H81N [^4]                        |i5 4590K                              |----            |14            |----   |
+| Official         |Gigabyte GA-B360N-GSM v1.0 [^5]              |i7 9700                               |----            |----          |----   |
 
 
 [^1]: Proton Server [Specification](https://www.waves.com/1lib/pdf/hardware/proton-server-a-e-spec.pdf) 
@@ -53,8 +52,8 @@ Based on GearSpace or facebook I've made a compilation  of working configuration
 | DIY              |Asus Z87-K C2                                   |i7 4770                            |----            |11            |----   |
 | DIY              |Asus H81M-K motherboard                         |i7 4771                            |----            |14            |----   |
 | DIY              |Dell T5500                                      |i7 4771                            |----            |----          |----   |
-| DIY              |Dell PowerEdge T20                              |Xeon E3-1225 v3                    |----            |11L           |----   |
-| DIY              |Dell Optiplex 7060                              |                                   |----            |----          |----   |
+| DIY              |Dell PowerEdge T20                              |Xeon E3 1225 v3                    |----            |11L           |----   |
+| DIY              |Dell Optiplex 7060                              |----                               |----            |----          |----   |
 | DIY              |Dell Optiplex 3050 Micro                        |i5 7500T                           |----            |----          |----   |
 | DIY              |Gigabyte B365                                   |----                               |----            |----          |----   |
 | DIY              |Gigabyte B365M DS3H                             |i7 9700K                           |----            |----          |----   |
@@ -73,15 +72,16 @@ Based on GearSpace or facebook I've made a compilation  of working configuration
 |----              |----                                            |----                               |----            |----          |----   |
 | DIY              |DELL R210 II                                    |Xeon 1230 V2                       |----            |----          |----   |
 
-#### Towers
+#### Mini / SFF / USFF Towers
 
 | Official / DIY   | MotherBoard / Config Name                      | CPU                               |   Form Factor  |H-Reverb Test | Price |
 |----              |----                                            |----                               |----            |----          |----   |
+| DIY              |HP Elitedesk 600 G3                             |i7 6700                            | SFF            |15            |150    |
 | DIY              |HP Elitedesk 800 G1                             |i7 4790                            | SFF            |----          |----   |
 | DIY              |HP EliteDesk 800 G3 Mini                        |i5 7700                            | USFF           |----          |----   |
 | DIY              |HP Elitedesk 800 G5                             |i5 9500T                           |----            |----          |----   |
 | DIY              |HP Elitedesk G2                                 |i5 6500T                           |----            |8             |----   |
-| DIY              |Lenovo M93P tiny                                |i5 4570T                           |USFF            |----          |----   |
+| DIY              |Lenovo M93P tiny                                |i5 4570T                           | USFF           |----          |----   |
 | DIY              |Lenovo thinkcentre M900-tiny                    |i5 6500T                           |----            |----          |----   |
 
 ### Bad ideas
@@ -100,8 +100,6 @@ Based on GearSpace or facebook I've made a compilation  of working configuration
 
 
 ## FAQ
-
-
 
 <details><summary>How do i check the CPU ?</summary>
 <p>
@@ -142,3 +140,4 @@ A simple test you can do, as waves does :
 
 </p>
 </details>
+[^test_result]: performance under studiorack @44khz
