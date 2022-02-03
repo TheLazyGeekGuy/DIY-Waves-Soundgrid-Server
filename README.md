@@ -74,7 +74,7 @@ This page is a compilation on what you'll find on GearSpace or facebook.
 
 #### Mini / SFF / USFF Towers
 
-| Official / DIY   | MotherBoard / Config Name                      | CPU                               |   Form Factor  |H-Reverb Test | Price |
+| Official / DIY   | MotherBoard / Config Name                      | CPU                               |   Form Factor  |H-Reverb Test |Price €|
 |----              |----                                            |----                               |----            |----          |----   |
 | DIY              |HP Elitedesk 600 G3                             |i7 6700                            | SFF            |15            |150    |
 | DIY              |HP Elitedesk 800 G1                             |i7 4790                            | SFF            |----          |----   |
