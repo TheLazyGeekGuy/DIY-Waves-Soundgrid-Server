@@ -25,42 +25,47 @@ No source code will be provided.
 ### Waves official configurations 
 
 
-| Official / DIY   | MotherBoard / Config Name                   | CPU                                  |   Form Factor  |H-Reverb Test | Price |
+| Official / DIY   | MotherBoard / Config Name                   | CPU                                  |   Form Factor  |H-Reverb Test [^0]| Price / ratio [^7]  |
 |----              |----                                         |----                                  |----            |----          |----   |
-| Official         |Polywell J4105AEL2[^1]                       |Celeron J4105                         |----            |----          |----   |
-| Official         |Gigabyte GA-B150N-GSM [^2]                   |i5                                    |----            |----          |----   |
-| Official         |Portwell Nano-6000C[^3]                      |i5 6200u                              |----            |----          |----   |
-| Official         |Gigabyte GA-H81N [^4]                        |i5 4590K                              |----            |14            |----   |
-| Official         |Gigabyte GA-B360N-GSM v1.0 [^5]              |i7 9700                               |----            |----          |----   |
+| Official         |Polywell J4105AEL2[^1]                       |Celeron J4105                         |----            |<6            |$849   / 141|
+| Official         |Gigabyte GA-B150N-GSM [^2]                   |i5                                    |----            |12            |$1799  / 149 |
+| Official         |Portwell Nano-6000C[^3]                      |i5 6200u                              |----            |6             |$1299 / 216  |
+| Official         |Gigabyte GA-H81N [^4]                        |i5 4590K                              |----            |14            |$2449 / 178  |
+| Official         |Gigabyte GA-B360N-GSM v1.0 [^5][^6]          |i7 9700                               |----            |14            |$2399 / 171 |
+
+
 
 
 [^1]: Proton Server [Specification](https://www.waves.com/1lib/pdf/hardware/proton-server-a-e-spec.pdf) 
 [^2]: Server One-C [Specification](https://www.waves.com/1lib/pdf/hardware/server-one-c-a-e-spec.pdf)
 [^3]: Mobile Server 
 [^4]: Extreme Server [Specification](https://www.waves.com/hardware/soundgrid-extreme-server#tab-tech-specs)
-[^4]: Impact Server C X9 [Specification](https://www.waves.com/1lib/pdf/hardware/extreme-server-c-x9-a-e-spec.pdf)
-[^5]: Extreme Server-C : [Specification](https://www.waves.com/hardware/soundgrid-extreme-server-c#tab-tech-specs)
+[^5]: Impact Server C X9 [Specification](https://www.waves.com/1lib/pdf/hardware/extreme-server-c-x9-a-e-spec.pdf)
+[^6]: Extreme Server-C : [Specification](https://www.waves.com/hardware/soundgrid-extreme-server-c#tab-tech-specs)
+[^0]: performance under studiorack @44khz
+[^7]: ratio is (price list) / (H-reverb test result) = cost per H-reverb - lower is better
 
 
 ### DIY configurations 
 
 #### Towers
 
-| Official / DIY   | MotherBoard / Config Name                      | CPU                               |   Form Factor  |H-Reverb Test | Price |
-|----              |----                                            |----                               |----            |----          |----   |
-| DIY              |Acer N4660G                                     |i7 8700                            |----            |----          |----   |
-| DIY              |ASRock H110M DVS                                |i5 7400                            |----            |----          |----   |
+| Official / DIY   | MotherBoard / Config Name                      | CPU                               |   Form Factor  |H-Reverb Test [^0]| Price  € / ratio  [^7]      |
+|----              |----                                            |----                               |----            |----          |----           |
+| DIY              |Acer N4660G                                     |i7 8700                            |----            |----          |----           |
+| DIY              |ASRock H110M DVS                                |i5 7400                            |----            |----          |----   |       
 | DIY              |Asus P79                                        |i7 3930x                           |----            |----          |----   |
 | DIY              |Asus Z87-K C2                                   |i7 4770                            |----            |11            |----   |
 | DIY              |Asus H81M-K motherboard                         |i7 4771                            |----            |14            |----   |
 | DIY              |Dell T5500                                      |i7 4771                            |----            |----          |----   |
-| DIY              |Dell PowerEdge T20                              |Xeon E3 1225 v3                    |----            |11L           |----   |
+| DIY              |Dell PowerEdge T20                              |Xeon E3 1225 v3                    |----            |11           | 300 (2015)   |
 | DIY              |Dell Optiplex 7060                              |----                               |----            |----          |----   |
 | DIY              |Dell Optiplex 3050 Micro                        |i5 7500T                           |----            |----          |----   |
 | DIY              |Gigabyte B365                                   |----                               |----            |----          |----   |
 | DIY              |Gigabyte B365M DS3H                             |i7 9700K                           |----            |----          |----   |
 | DIY              |Gigabyte GA-H81M-S2PH                           |i5 4570                            |----            |----          |----   |
 | DIY              |Gigabyte GA-H110TN                              |i7 6700                            |----            |----          |----   |
+| DIY              |Gigabyte GA-H510M S2 V2                         |i9 11900                           |----            |20            | 800 (2022)  / 40  |
 | DIY              |Gigabyte GA-B360N GSM / WiFi                    |i7 8700K                           |----            |----          |----   |
 | DIY              |Gigabyte b365m ds3h                             |i7 9700k                           |----            |----          |----   |
 | DIY              |Gigabyte b365m ds3h                             |i7 9700                            |----            |----          |----   |
@@ -70,15 +75,15 @@ No source code will be provided.
 | DIY              |HP Z240 workstation                             |i7 6700                            |----            |----          |----   |
 
 #### Rack server
-| Official / DIY   | MotherBoard / Config Name                      | CPU                               |   Form Factor  |H-Reverb Test | Price |
+| Official / DIY   | MotherBoard / Config Name                      | CPU                               |   Form Factor  |H-Reverb Test [^0]| Price  € / ratio [^7]       |
 |----              |----                                            |----                               |----            |----          |----   |
 | DIY              |DELL R210 II                                    |Xeon 1230 V2                       |----            |----          |----   |
 
 #### Mini / SFF / USFF Towers
 
-| Official / DIY   | MotherBoard / Config Name                      | CPU                               |   Form Factor  |H-Reverb Test |Price €|
+| Official / DIY   | MotherBoard / Config Name                      | CPU                               |   Form Factor  |H-Reverb Test [^0] | Price  € / ratio [^7]       |
 |----              |----                                            |----                               |----            |----          |----   |
-| DIY              |HP Elitedesk 600 G3                             |i7 6700                            | SFF            |15            |150 (2022)    |
+| DIY              |HP Elitedesk 600 G3                             |i7 6700                            | SFF            |15            |150 (2022) / 10   |
 | DIY              |HP Elitedesk 800 G1                             |i7 4790                            | SFF            |----          |----   |
 | DIY              |HP EliteDesk 800 G3 Mini                        |i5 7700                            | USFF           |----          |----   |
 | DIY              |HP Elitedesk 800 G5                             |i5 9500T                           |----            |----          |----   |
@@ -126,10 +131,10 @@ For a long time as reference (on planetz : [creamware user](https://www.forums.s
 </p>
 </details>
 
-<details><summary>How do i mesure performance of my setup ? (Reverb Test)</summary>
+<details><summary>How do i mesure performance of my setup ? (Reverb Test)  </summary>
 <p>
 
-One of the mesure of setup performance (and does not reflect the whole CPU capabilities - see "[CPU Performance vs. Real-Time Performance in Digital Audio Workstations (DAW)](https://www.youtube.com/watch?v=GUsLLEkswzE)" for full explanation), is to test the worst case scenario for plugins use : reverbs.
+One of the mesure of setup performance  (and does not reflect the whole CPU capabilities - see "[CPU Performance vs. Real-Time Performance in Digital Audio Workstations (DAW)](https://www.youtube.com/watch?v=GUsLLEkswzE)" for full explanation), is to test the worst case scenario for plugins use : reverbs.
 Reverbs are often the most commun and worst for system resources.
 This is why this is a commun reference.( see 2005 [Masterverb thread](https://forums.scopeusers.com/viewtopic.php?t=17078&sid=21d12edd7bac80c1b0427111224bc653))
 
@@ -143,4 +148,4 @@ A simple test you can do, as waves does :
 
 </p>
 </details>
-[^test_result]: performance under studiorack @44khz
+
