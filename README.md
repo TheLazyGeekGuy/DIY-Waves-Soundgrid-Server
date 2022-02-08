@@ -101,7 +101,7 @@ No source code will be provided.
 
 | Official / DIY   | MotherBoard / Config Name                      | CPU                               |   Form Factor  |H-Reverb Test [^0] | Price  € / ratio [^7]       |
 |----              |----                                            |----                               |----            |----          |----   |
-| DIY              |HP Elitedesk 600 G3                             |i7 6700                            | SFF            |15L            |150 (2022) / 10   |
+| DIY              |HP Elitedesk 600 G3                             |i7 6700                            | SFF            |20            |150 (2022) / 7.5   |
 | DIY              |HP Elitedesk 600 G3                             |i7 7700                            | SFF            |22            |160 (2022) / 7.27   |
 | DIY              |HP Elitedesk 800 G1                             |i7 4790                            | SFF            |----          |----   |
 | DIY              |HP EliteDesk 800 G3 Mini                        |i5 7700                            | USFF           |----          |----   |
