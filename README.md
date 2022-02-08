@@ -16,6 +16,10 @@ No source code will be provided.
 | Network          | Intel or Some Realtek - 1 Ethernet Port ``only ``           |
 | Drive            | USB Flash Drive[^warning]                                   |
 
+**NOT WORKING** :
+- Non Intel CPU based configuration
+- Non Intel or Some Realtek based NIC card
+
 
 [^warning]: Dont connect any other drive than the flash drive. 
   During firmware update, it could blank your whole drive ...
@@ -24,6 +28,20 @@ No source code will be provided.
 
 ### Waves official configurations 
 
+###### DISCLAIMER
+
+<details><summary>About waves configuration </summary>
+<p>
+  
+    All waves configuration tag price don't reflect only gear but also come with :
+      - professional support, 
+      - Sturdy all-metal casing, 
+      - Free 1-year warranty, 
+      - Neutrik etherCon SoundGrid port connector for some units 
+      - and more important all love from waves.
+  
+</p>
+</details>
 
 | Official / DIY   | MotherBoard / Config Name                   | CPU                                  |   Form Factor  |H-Reverb Test [^0]| Price / ratio [^7]  |
 |----              |----                                         |----                                  |----            |----          |----   |
@@ -83,7 +101,8 @@ No source code will be provided.
 
 | Official / DIY   | MotherBoard / Config Name                      | CPU                               |   Form Factor  |H-Reverb Test [^0] | Price  € / ratio [^7]       |
 |----              |----                                            |----                               |----            |----          |----   |
-| DIY              |HP Elitedesk 600 G3                             |i7 6700                            | SFF            |15            |150 (2022) / 10   |
+| DIY              |HP Elitedesk 600 G3                             |i7 6700                            | SFF            |15L            |150 (2022) / 10   |
+| DIY              |HP Elitedesk 600 G3                             |i7 7700                            | SFF            |22            |160 (2022) / 7.27   |
 | DIY              |HP Elitedesk 800 G1                             |i7 4790                            | SFF            |----          |----   |
 | DIY              |HP EliteDesk 800 G3 Mini                        |i5 7700                            | USFF           |----          |----   |
 | DIY              |HP Elitedesk 800 G5                             |i5 9500T                           |----            |----          |----   |
@@ -97,14 +116,21 @@ No source code will be provided.
 - Laptop server : as macbook pro or something else : as the server running the computer at fullspeed, it will make your computer die sooner ...
 
 
+### WIP
+- HP Elitedesk 400 G7 i5 10500 : CPU or lan recognition failed
+
+
 ### Failed to work and will never be ...
 
-- HP Elitedesk 400 G7 i5 10500 : CPU or lan recognition failed
-- MSI B450M Mortar Max + Ryzen 3 1200
-- MSI 790FX-GD70 + Phenom II X4 965
-- Lenovo Thinkstation P340
-- Non Intel CPU based configuration
-- Non Intel or Some Realtek based NIC card
+
+| Official / DIY   | MotherBoard / Config Name                      | CPU                               |   Form Factor  |H-Reverb Test [^0]| Price  € / ratio [^7]       |
+|----              |----                                            |----                               |----            |----          |----   |
+| DIY              |MSI B450M Mortar Max                            |Ryzen 3 1200                       |----            |----          |----   |
+| DIY              |MSI 790FX-GD70                                  |Phenom II X4 965                   |----            |----          |----   |
+| DIY              |Lenovo Thinkstation P340                        |                                   |----            |----          |----   |
+| DIY              |MSI B450M Mortar Max                            |Ryzen 3 1200                       |----            |----          |----   |
+
+
 
 
 ## FAQ
@@ -148,4 +174,17 @@ A simple test you can do, as waves does :
 
 </p>
 </details>
+
+<details><summary>Reducing noise & temperature </summary>
+<p>
+
+## CPU
+Try to change the thermal paste of your CPU with someting like Thermal Grizzly Hydronaut - Conductive, High Performance Thermal Paste - Extensive for air Cooling Systems, Water Cooling, for All heatsinks CPU and GPU (7,8 Gram / 3 ml) Amazon [US](https://www.amazon.com/gp/product/B00ZJSDB7W) [FR](https://www.amazon.fr/gp/product/B00ZJSDB7W) and Isopropanol 99,9% Alkohol - Amazon [US](https://www.amazon.com/gp/product/B07D4N472Q/) [FR](https://www.amazon.fr/gp/product/B07D4N472Q/)
+It will reduce your CPU temperature of few degrees.
+
+
+</p>
+</details>
+
+
 
