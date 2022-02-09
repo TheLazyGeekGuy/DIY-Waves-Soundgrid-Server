@@ -117,7 +117,7 @@ No source code will be provided.
 
 
 ### WIP
-- HP Elitedesk 400 G7 i5 10500 : CPU or lan recognition failed
+- HP Elitedesk 400 G7 i5 10500 : NIC Intel® I219LM recognition failed
 
 
 ### Failed to work and will never be ...
