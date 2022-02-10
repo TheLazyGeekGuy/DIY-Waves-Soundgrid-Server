@@ -101,8 +101,8 @@ No source code will be provided.
 
 | Official / DIY   | MotherBoard / Config Name                      | CPU                               |   Form Factor  |H-Reverb Test [^0] | Price  € / ratio [^7]       |
 |----              |----                                            |----                               |----            |----          |----   |
-| DIY              |HP Elitedesk 600 G3                             |i7 6700                            | SFF            |20            |150 (2022) / 7.5   |
-| DIY              |HP Elitedesk 600 G3                             |i7 7700                            | SFF            |22            |160 (2022) / 7.27   |
+| DIY              |HP Elitedesk 600 G3                             |i7 6700                            | SFF            |20 (11034440) |150 (2022) / 7.5   |
+| DIY              |HP Elitedesk 600 G3                             |i7 7700                            | SFF            |22 (11034440) |160 (2022) / 7.27   |
 | DIY              |HP Elitedesk 800 G1                             |i7 4790                            | SFF            |----          |----   |
 | DIY              |HP EliteDesk 800 G3 Mini                        |i5 7700                            | USFF           |----          |----   |
 | DIY              |HP Elitedesk 800 G5                             |i5 9500T                           |----            |----          |----   |
@@ -157,7 +157,7 @@ For a long time as reference (on planetz : [creamware user](https://www.forums.s
 </p>
 </details>
 
-<details><summary>How do i mesure performance of my setup ? (Reverb Test)  </summary>
+<details><summary>How do i mesure performance of my setup ? (H-Reverb Test)  </summary>
 <p>
 
 One of the mesure of setup performance  (and does not reflect the whole CPU capabilities - see "[CPU Performance vs. Real-Time Performance in Digital Audio Workstations (DAW)](https://www.youtube.com/watch?v=GUsLLEkswzE)" for full explanation), is to test the worst case scenario for plugins use : reverbs.
@@ -166,20 +166,27 @@ This is why this is a commun reference.( see 2005 [Masterverb thread](https://fo
 
 A simple test you can do, as waves does :
 
- 
+### Test Version
 
-| Test Version              | Main Soft             | Sub soft                                       | Frequency     | Latency       | Comments                      |
-|----                       |----                   |----                                            |----           |----           |----                           |
-| <WavesVersion>01          |eMotion                |LV1                                             |48 kHz         |40             |latency optimiszed mode        |
-| <WavesVersion>02          |SuperRack              |SoundGrid                                       |48 kHz         |40             |                               |
-| <WavesVersion>03          |StudioRack             |SoundGrid Studio                                |48 kHz         |40             |SoundGrid mode                 |
-
+       Result : Waves Version><Case><Frequency Rate><Latency>
 Exemple : 
-H-reverb 20 (1103)  will refer to a studio rack test under V11 @ 48 kHz for a 40 latency
+H-reverb 20 (11034840)  will refer to a studio rack test on Waves V11 @ 48Khz under a latency of 40
+
+### Test Case
+
+| Case        | Main Soft             | Sub soft                                       | Comments                      |
+|----         |----                   |----                                            |----                           |
+| 01          |eMotion                |LV1                                             |latency optimiszed mode        |
+| 02          |SuperRack              |SoundGrid                                       |                               |
+| 03          |StudioRack             |SoundGrid Studio                                |SoundGrid mode                 |
+
 
 Source : [Waves](https://www.waves.com/compare-servers)
 
+### Test Itself
 
+
+#### Case 3 StudioRack + SoundGrid Studio 
 1. create an audio track on your DAW, insert random wav on it
 2. set studiorack plugin insert on this track, select H - Reverb plug in
 3. play, if it's :
