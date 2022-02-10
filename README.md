@@ -62,6 +62,7 @@ No source code will be provided.
 [^6]: Extreme Server-C : [Specification](https://www.waves.com/hardware/soundgrid-extreme-server-c#tab-tech-specs)
 [^0]: check FAQ : "How do i mesure performance of my setup ? (H-Reverb Test)"
 [^7]: ratio is (price list) / (H-reverb test result) = cost per H-reverb - lower is better
+[^nic]: Intel Gigabit CT Desktop Adapter (supported nic)
 
 
 ### DIY configurations 
@@ -72,6 +73,7 @@ No source code will be provided.
 |----              |----                                            |----                               |----            |----          |----           |
 | DIY              |Acer N4660G                                     |i7 8700                            |----            |----          |----           |
 | DIY              |ASRock H110M DVS                                |i5 7400                            |----            |----          |----   |       
+| DIY              |ASRock H510M[^nic]                              |i7 11700K                          | ITX            |----          |----   |       
 | DIY              |Asus P79                                        |i7 3930x                           |----            |----          |----   |
 | DIY              |Asus Z87-K C2                                   |i7 4770                            |----            |11            |----   |
 | DIY              |Asus H81M-K motherboard                         |i7 4771                            |----            |14            |----   |
