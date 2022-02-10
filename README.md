@@ -60,7 +60,7 @@ No source code will be provided.
 [^4]: Extreme Server [Specification](https://www.waves.com/hardware/soundgrid-extreme-server#tab-tech-specs)
 [^5]: Impact Server C X9 [Specification](https://www.waves.com/1lib/pdf/hardware/extreme-server-c-x9-a-e-spec.pdf)
 [^6]: Extreme Server-C : [Specification](https://www.waves.com/hardware/soundgrid-extreme-server-c#tab-tech-specs)
-[^0]: performance under studiorack @44khz
+[^0]: check FAQ : "How do i mesure performance of my setup ? (H-Reverb Test)"
 [^7]: ratio is (price list) / (H-reverb test result) = cost per H-reverb - lower is better
 
 
