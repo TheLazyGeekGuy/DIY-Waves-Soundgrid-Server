@@ -168,7 +168,7 @@ A simple test you can do, as waves does :
 
 ### Test Version
 
-       Result : Waves Version><Case><Frequency Rate><Latency>
+       Result : <Waves Version><Case><Frequency Rate><Latency>
 Exemple : 
 H-reverb 20 (11034840)  will refer to a studio rack test on Waves V11 @ 48Khz under a latency of 40
 
