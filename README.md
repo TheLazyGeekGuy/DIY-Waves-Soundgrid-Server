@@ -45,11 +45,11 @@ No source code will be provided.
 
 | Official / DIY   | MotherBoard / Config Name                   | CPU                                  |   Form Factor  |H-Reverb Test [^0]| Price / ratio [^7]  |
 |----              |----                                         |----                                  |----            |----          |----   |
-| Official         |Polywell J4105AEL2[^1]                       |Celeron J4105                         |----            |<6            |$849   / 141|
-| Official         |Gigabyte GA-B150N-GSM [^2]                   |i5                                    |----            |12            |$1799  / 149 |
-| Official         |Portwell Nano-6000C[^3]                      |i5 6200u                              |----            |6             |$1299 / 216  |
-| Official         |Gigabyte GA-H81N [^4]                        |i5 4590K                              |----            |14            |$2449 / 178  |
-| Official         |Gigabyte GA-B360N-GSM v1.0 [^5][^6]          |i7 9700                               |----            |14            |$2399 / 171 |
+| Official         |Polywell J4105AEL2[^1]                       |Celeron J4105                         |----            |<6 (11034840)           |$849   / 141|
+| Official         |Gigabyte GA-B150N-GSM [^2]                   |i5                                    |----            |12 (11034840)           |$1799  / 149 |
+| Official         |Portwell Nano-6000C[^3]                      |i5 6200u                              |----            |6  (11034840)           |$1299 / 216  |
+| Official         |Gigabyte GA-H81N [^4]                        |i5 4590K                              |----            |14 (11034840)           |$2449 / 178  |
+| Official         |Gigabyte GA-B360N-GSM v1.0 [^5][^6]          |i7 9700                               |----            |14  (11034840)          |$2399 / 171 |
 
 
 
