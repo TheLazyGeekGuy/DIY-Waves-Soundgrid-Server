@@ -166,6 +166,20 @@ This is why this is a commun reference.( see 2005 [Masterverb thread](https://fo
 
 A simple test you can do, as waves does :
 
+ 
+
+| Test Version              | Main Soft             | Sub soft                                       | Frequency     | Latency       | Comments                      |
+|----                       |----                   |----                                            |----           |----           |----                           |
+| <WavesVersion>01          |eMotion                |LV1                                             |48 kHz         |40             |latency optimiszed mode        |
+| <WavesVersion>02          |SuperRack              |SoundGrid                                       |48 kHz         |40             |                               |
+| <WavesVersion>03          |StudioRack             |SoundGrid Studio                                |48 kHz         |40             |SoundGrid mode                 |
+
+Exemple : 
+H-reverb 20 (1103)  will refer to a studio rack test under V11 @ 48 kHz for a 40 latency
+
+Source : [Waves](https://www.waves.com/compare-servers)
+
+
 1. create an audio track on your DAW, insert random wav on it
 2. set studiorack plugin insert on this track, select H - Reverb plug in
 3. play, if it's :
@@ -185,6 +199,3 @@ It will reduce your CPU temperature of few degrees.
 
 </p>
 </details>
-
-
-
