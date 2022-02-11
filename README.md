@@ -89,6 +89,7 @@ No source code will be provided.
 | DIY              |Gigabyte GA-B360N GSM / WiFi                    |i7 8700K                           |----            |----          |----   |
 | DIY              |Gigabyte b365m ds3h                             |i7 9700k                           |----            |----          |----   |
 | DIY              |Gigabyte b365m ds3h                             |i7 9700                            |----            |----          |----   |
+| DIY              |Gigabyte IMB410TN                               |i7 8700                            |----            |----          |----   |
 | DIY              |Gigabyte H410M S2H                              |i5 10400                           |----            |----          |----   |
 | DIY              |Gigabyte H270N                                  |i7 7700K                           |----            |----          |----   |
 | DIY              |Gigabyte Z370P D3                               |i5 9600k                           |----            |----          |----   |
