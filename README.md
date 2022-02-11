@@ -83,6 +83,7 @@ No source code will be provided.
 | DIY              |Dell Optiplex 3050 Micro                        |i5 7500T                           |----            |----          |----   |
 | DIY              |Gigabyte B365                                   |----                               |----            |----          |----   |
 | DIY              |Gigabyte B365M DS3H                             |i7 9700K                           |----            |----          |----   |
+| DIY              |Gigabyte B365M WIFI-Y1-R                        |i7 9700                           |----            |----          |----   |
 | DIY              |Gigabyte GA-H81M-S2PH                           |i5 4570                            |----            |----          |----   |
 | DIY              |Gigabyte GA-H110TN                              |i7 6700                            |----            |----          |----   |
 | DIY              |Gigabyte GA-H510M S2 V2                         |i9 11900                           |----            |20            | 800 (2022)  / 40  |
