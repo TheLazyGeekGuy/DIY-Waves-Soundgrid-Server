@@ -129,6 +129,7 @@ No source code will be provided.
 
 | Official / DIY   | MotherBoard / Config Name                      | CPU                               |   Form Factor  |H-Reverb Test [^0]| Price  € / ratio [^7]       |
 |----              |----                                            |----                               |----            |----          |----   |
+| DIY              |Apple Mac Mini                                  |*                                  |----            |----          |----   |
 | DIY              |MSI B450M Mortar Max                            |Ryzen 3 1200                       |----            |----          |----   |
 | DIY              |MSI 790FX-GD70                                  |Phenom II X4 965                   |----            |----          |----   |
 | DIY              |Lenovo Thinkstation P340                        |                                   |----            |----          |----   |
