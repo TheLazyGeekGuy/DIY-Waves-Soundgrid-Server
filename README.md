@@ -136,6 +136,9 @@ No source code will be provided.
 | DIY              |MSI B450M Mortar Max                            |Ryzen 3 1200                       |----            |----          |----   |
 
 
+## NIC : compatible additional NIC Card
+
+    - Intel Ethernet Server Adapter I210-T1 - Networkadapter - PCIe 2.1 lowprofil - around 60€
 
 
 ## FAQ
