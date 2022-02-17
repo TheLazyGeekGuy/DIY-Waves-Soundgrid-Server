@@ -202,7 +202,8 @@ H-reverb 20 (11034840)  will refer to a studio rack test on Waves V11 @ 48Khz un
 | 03          |StudioRack             |SoundGrid Studio                                |SoundGrid mode                 |
 
 
-Source : [Waves](https://www.waves.com/compare-servers)
+Source :  [Waves](https://www.waves.com/compare-servers)
+          [Plugins latency](https://www.waves.com/support/tech-specs/plugin-latency)
 
 ### Test Itself
 
