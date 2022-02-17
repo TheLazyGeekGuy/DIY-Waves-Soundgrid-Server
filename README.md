@@ -1,6 +1,6 @@
 # DIY Waves Soundgrid Server
 
-This page is a compilation on what you'll find on [groupdiy](https://groupdiy.com/threads/diy-compatible-waves-soundgrid-server.71385/) [GearSpace](https://gearspace.com/board/music-computers/1311451-diy-waves-soundgrid-server-2020-edition.html) thanks to `krabbencutter` or [facebook](https://www.facebook.com/groups/842878673081651) thanks to `Kalfelz Wusik William`. 
+This page is a compilation on what you'll find on [Groupdiy](https://groupdiy.com/threads/diy-compatible-waves-soundgrid-server.71385/) [GearSpace](https://gearspace.com/board/music-computers/1311451-diy-waves-soundgrid-server-2020-edition.html) thanks to `krabbencutter` or [facebook](https://www.facebook.com/groups/842878673081651) thanks to `Kalfelz Wusik William`. 
 
 No source code will be provided.
 
