@@ -139,6 +139,7 @@ No source code will be provided.
 ## NIC : compatible additional NIC Card Intel/Realtek
 
     - Intel I210-T1 Ethernet Server Adapter - PCIe 2.1 lowprofil - around 60€
+    - Intel EXPI9402PT 
     - Intel Chipsets 000 series, I219V seem to work fine. Intel PCIe LAN card can work.
     - Realtek 8111x should work (Success with 8111H and 8111B and r8169) *
 
@@ -261,3 +262,27 @@ It will reduce your CPU temperature of few degrees.
 
 </p>
 </details> 
+
+ <details><summary>NIC Issue : I boot up but my server is not recognised</summary>
+<p>
+  
+Here is the symptom :
+  
+  ![Result](https://gearspace.com/board/attachments/music-computers/910981d1598964550-diy-waves-soundgrid-server-2020-edition-capture-d-ecran-2020-09-01-14.49.00.png)
+
+Resolution : add additional nic card  
+  
+</p>
+</details> 
+
+   <details><summary>Soundgrid Studio : Safe Mode</summary>
+<p>
+  
+  Hold SHIFT-F until the "FW" on your soundgrid server lights up and click that 'FW'.
+ 
+  
+</p>
+</details> 
+  
+
+  
