@@ -185,7 +185,7 @@ H-reverb 20 (11034840)  will refer to a studio rack test on Waves V11 @ 48Khz un
 
 | Case        | Main Soft             | Sub soft                                       | Comments                      |
 |----         |----                   |----                                            |----                           |
-| 01          |eMotion                |LV1                                             |latency optimiszed mode        |
+| 01          |eMotion                |LV1                                             |latency optimized mode        |
 | 02          |SuperRack              |SoundGrid                                       |                               |
 | 03          |StudioRack             |SoundGrid Studio                                |SoundGrid mode                 |
 
@@ -215,3 +215,14 @@ It will reduce your CPU temperature of few degrees.
 
 </p>
 </details>
+  
+ <details><summary>Wave Server CLI : AG_NSServer</summary>
+<p>
+  "AG_NSServer -help"
+
+  "AG_NSServer -i eth0 -m sgnf AG_NSServer -i eth0 -m sgnf -o ./wsgnf -d"
+  https://gearspace.com/board/attachments/music-computers/908695d1597899185-diy-waves-soundgrid-server-2020-edition-ag_nsserver1.jpg
+
+
+</p>
+</details> 
