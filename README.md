@@ -218,10 +218,19 @@ It will reduce your CPU temperature of few degrees.
   
  <details><summary>Wave Server CLI : AG_NSServer</summary>
 <p>
-  "AG_NSServer -help"
+  
+  Some command :
+  
+  ```
+    AG_NSServer -help
+  ```
+  ![Result](https://gearspace.com/board/attachments/music-computers/908695d1597899185-diy-waves-soundgrid-server-2020-edition-ag_nsserver1.jpg)
 
-  "AG_NSServer -i eth0 -m sgnf AG_NSServer -i eth0 -m sgnf -o ./wsgnf -d"
-  https://gearspace.com/board/attachments/music-computers/908695d1597899185-diy-waves-soundgrid-server-2020-edition-ag_nsserver1.jpg
+  
+  ```
+    AG_NSServer -i eth0 -m sgnf AG_NSServer -i eth0 -m sgnf -o ./wsgnf -d
+  ```
+  
 
 
 </p>
