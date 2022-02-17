@@ -215,6 +215,32 @@ It will reduce your CPU temperature of few degrees.
 
 </p>
 </details>
+ 
+  
+   <details><summary>Create a Soundgrid Server V11 USB stick (Windows)</summary>
+<p>
+  
+  Here's a simple set of instructions how to create a Soundgrid Server V11 USB stick on Windows in about 5 minutes 
+
+    - install SoundGrid Studio (or another Soundgrid application of your choice) on your System
+    - Download Rufus https://rufus.ie/
+    - insert an empty USB stick
+    - open Rufus and toggle "Show advanced drive properties" (below the "Partition scheme"-Dropdown). 
+      You don't need to click anything here, instead click on the "Boot selection"-Dropdown
+    - select "Syslinux 6.04" from the "Boot selection"-Dropdown
+    - hit START. You'll get some warning dialogs, as well as some dialogs where you need to allow Rufus to download syslinux.
+    - download and install 7-Zip https://7-zip.org/
+    - navigate to C:\ProgramData\Waves Audio\SoundGrid Firmware\SGS
+    - open the .wfi file with 7-zip
+    - extract the content to your USB stick
+    - eject the USB stick and put it in your server 
+  
+  Source [krabbencutter](https://gearspace.com/board/music-computers/1311451-diy-waves-soundgrid-server-2020-edition.html)
+</p>
+</details> 
+  
+  
+
   
  <details><summary>Wave Server CLI : AG_NSServer</summary>
 <p>
