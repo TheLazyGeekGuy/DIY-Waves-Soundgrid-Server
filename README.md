@@ -136,10 +136,10 @@ No source code will be provided.
 | DIY              |MSI B450M Mortar Max                            |Ryzen 3 1200                       |----            |----          |----   |
 
 
-## NIC : compatible additional NIC Card
+## NIC : compatible additional NIC Card Intel/Realtek
 
-    - Intel Ethernet Server Adapter I210-T1 - Networkadapter - PCIe 2.1 lowprofil - around 60€
-    - LAN with Intel Chipsets like the 1000 series, I219V seem to work fine. Intel PCIe LAN card can work.
+    - Intel I210-T1 Ethernet Server Adapter - PCIe 2.1 lowprofil - around 60€
+    - Intel Chipsets 000 series, I219V seem to work fine. Intel PCIe LAN card can work.
     - Realtek 8111x should work (Success with 8111H and 8111B and r8169) *
 
 ## FAQ
