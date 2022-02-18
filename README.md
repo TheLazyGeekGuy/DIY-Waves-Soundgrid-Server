@@ -13,7 +13,8 @@ No source code will be provided.
   - **SoundGrid 101: Introduction to SoundGrid** : basics of Waves SoundGrid systems for real-time audio processing and networking.
   - **SoundGrid 201: In-Depth Training** : in depth about Waves SoundGrid systems for real-time audio processing and networking.
   - **SoundGrid 301: Advanced Training** : how to operate a Waves SoundGrid system more effectively, including troubleshooting basics.
-  And also buying more delicious [Waves Plugins](https://www.waves.com/plugins#sort:path~type~order=.default-order~number~asc|views:view=grid-view|paging:currentPage=0|paging:number=20)
+ 
+ And also buying more delicious [Waves Plugins](https://www.waves.com/plugins#sort:path~type~order=.default-order~number~asc|views:view=grid-view|paging:currentPage=0|paging:number=20)
 
 ## Configurations
 
