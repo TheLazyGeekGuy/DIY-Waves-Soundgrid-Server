@@ -128,8 +128,8 @@ No source code will be provided.
 
 ### Bad ideas
 
-    -  Virtualisation (Vmware ESXI or other virtualisation solution) : run but will also keep failing as the server need REALTIME usage, spend more time doing music geeks !
-    - Laptop server : as macbook pro or something else : as the server running the computer at fullspeed, it will make your computer die sooner ...
+    - Virtualisation (Vmware ESXI or other virtualisation solution) : run but will also keep failing as the server need REALTIME usage, spend more time doing music geeks !
+    - Laptop server : Laptops are not designed to be servers. Soundgrid will definitely work but in the long run you will definitely have overheating/cooling issues as the server running the computer at fullspeed, it will make your computer die sooner ...
 
 
 ### WIP
