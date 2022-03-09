@@ -40,8 +40,6 @@ No source code will be provided.
 
 ### Waves 
 
-#### > Official configurations 2022
-
 ###### DISCLAIMER
 
 <details><summary>About waves configuration </summary>
@@ -56,6 +54,8 @@ No source code will be provided.
   
 </p>
 </details>
+
+#### > Official configurations 2022
 
 | Official / DIY   | MotherBoard / Config Name                   | CPU                                  |   Form Factor  |H-Reverb Test [^0]| Price / ratio [^7]  |
 |----              |----                                         |----                                  |----            |----          |----   |
