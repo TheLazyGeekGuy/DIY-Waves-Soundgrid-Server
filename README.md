@@ -38,7 +38,9 @@ No source code will be provided.
   Exemple : Kingston DataTraveler DTSE9G2 32GB Memory Stick
 
 
-### Waves official configurations 
+### Waves 
+
+#### > Official configurations 2022
 
 ###### DISCLAIMER
 
@@ -54,6 +56,20 @@ No source code will be provided.
   
 </p>
 </details>
+
+| Official / DIY   | MotherBoard / Config Name                   | CPU                                  |   Form Factor  |H-Reverb Test [^0]| Price / ratio [^7]  |
+|----              |----                                         |----                                  |----            |----          |----   |
+| Official         |Gigabyte W480M[^9]                           |i9 10900K                             |----            |NA           |$3499   / |
+| Official         |Gigabyte W480M[^10]                          |i9 10900K                             |----            |NA           |$3499   / |
+| Official         |Gigabyte GA-IMB410N[^11]                     |i7 10700                             |----            |NA           |$2449   / |
+
+[^9]: Titan SoundGrid Server [Specification](https://www.waves.com/hardware/titan-soundgrid-server) 
+[^10]: Titan-R SoundGrid Server [Specification](https://www.waves.com/hardware/titan-soundgrid-server) 
+[^11]: SoundGrid Extreme Server [Specification](https://www.waves.com/hardware/soundgrid-extreme-server#tab-tech-specs) 
+
+
+#### > Legacy official configurations < 2022
+
 
 | Official / DIY   | MotherBoard / Config Name                   | CPU                                  |   Form Factor  |H-Reverb Test [^0]| Price / ratio [^7]  |
 |----              |----                                         |----                                  |----            |----          |----   |
