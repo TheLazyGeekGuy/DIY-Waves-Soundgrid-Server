@@ -24,7 +24,7 @@ No source code will be provided.
 | Componant        |                                                             |
 |----              |----                                                         |
 | CPU              | Intel CPU `only ` - i5 or i7 6th gen mininimum recommanded  |
-| RAM              | 4Go - no more needed                                        |
+| RAM              | 4Go                                       |
 | Network          | Intel or Some Realtek - 1 Ethernet Port ``only ``           |
 | Drive            | USB Flash Drive[^warning]                                   |
 
