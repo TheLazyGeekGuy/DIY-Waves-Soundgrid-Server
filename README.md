@@ -59,13 +59,22 @@ No source code will be provided.
 
 | Official / DIY   | MotherBoard / Config Name                   | CPU                                  |   Form Factor  |H-Reverb Test [^0]| Price / ratio [^7]  |
 |----              |----                                         |----                                  |----            |----          |----   |
+| Official         |NAQBI2145A[^15]                              |Celeron J4125                             |----            |NA           |$849   / |
+| Official         |Gigabyte mITX-4125A-WV[^12]                  |Celeron J4125                             |----            |NA           |$1299   / |
+| Official         |Gigabyte GA-IMB410N[^13]                     |i3 10300                             |----            |NA           |$1799   / |
+| Official         |Gigabyte GA-IMB410N[^14]                     |i7 10700                             |----            |NA           |$2399   / |
+| Official         |Gigabyte GA-IMB410N[^11]                     |i7 10700                             |----            |NA           |$2449   / |
 | Official         |Gigabyte W480M[^9]                           |i9 10900K                             |----            |NA           |$3499   / |
 | Official         |Gigabyte W480M[^10]                          |i9 10900K                             |----            |NA           |$3499   / |
-| Official         |Gigabyte GA-IMB410N[^11]                     |i7 10700                             |----            |NA           |$2449   / |
 
 [^9]: Titan SoundGrid Server [Specification](https://www.waves.com/hardware/titan-soundgrid-server) 
 [^10]: Titan-R SoundGrid Server [Specification](https://www.waves.com/hardware/titan-soundgrid-server) 
-[^11]: SoundGrid Extreme Server [Specification](https://www.waves.com/hardware/soundgrid-extreme-server#tab-tech-specs) 
+[^11]: SoundGrid Extreme Server 2022 [Specification](https://www.waves.com/hardware/soundgrid-extreme-server#tab-tech-specs) 
+[^12]: Proton Duo 2022 [Specification](https://www.waves.com/hardware/proton-duo)
+[^13]: SoundGrid Server One-C 2022 [Specification](https://www.waves.com/hardware/soundgrid-server-one-c)
+[^14]: SoundGrid Extreme Server-C 2022 [Specification](https://www.waves.com/hardware/soundgrid-extreme-server-c#tab-tech-specs)
+[^15]: SoundGrid Proton Server 2022 [Specification](https://www.waves.com/hardware/soundgrid-proton-server#tab-tech-specs)
+
 
 
 #### > Legacy official configurations < 2022
@@ -74,8 +83,8 @@ No source code will be provided.
 | Official / DIY   | MotherBoard / Config Name                   | CPU                                  |   Form Factor  |H-Reverb Test [^0]| Price / ratio [^7]  |
 |----              |----                                         |----                                  |----            |----          |----   |
 | Official         |Polywell J4105AEL2[^1]                       |Celeron J4105                         |----            |<6 (11034840)           |$849   / 141|
-| Official         |Gigabyte GA-B150N-GSM [^2]                   |i5                                    |----            |12 (11034840)           |$1799  / 149 |
 | Official         |Portwell Nano-6000C[^3]                      |i5 6200u                              |----            |6  (11034840)           |$1299 / 216  |
+| Official         |Gigabyte GA-B150N-GSM [^2]                   |i5                                    |----            |12 (11034840)           |$1799  / 149 |
 | Official         |Gigabyte GA-H81N [^4]                        |i5 4590K                              |----            |14 (11034840)           |$2449 / 178  |
 | Official         |Gigabyte GA-B360N-GSM v1.0 [^5][^6]          |i7 9700                               |----            |14  (11034840)          |$2399 / 171 |
 
