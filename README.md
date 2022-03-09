@@ -59,7 +59,7 @@ No source code will be provided.
 
 | Official / DIY   | MotherBoard / Config Name                   | CPU                                  |   Form Factor  |H-Reverb Test [^0]| Price / ratio [^7]  |
 |----              |----                                         |----                                  |----            |----          |----   |
-| Official         |NAQBI2145A[^15]                              |Celeron J4125                             |----            |NA           |$849   / |
+| Official         |NA QBI2145A[^15]                              |Celeron J4125                             |----            |NA           |$849   / |
 | Official         |Gigabyte mITX-4125A-WV[^12]                  |Celeron J4125                             |----            |NA           |$1299   / |
 | Official         |Gigabyte GA-IMB410N[^13]                     |i3 10300                             |----            |NA           |$1799   / |
 | Official         |Gigabyte GA-IMB410N[^14]                     |i7 10700                             |----            |NA           |$2399   / |
