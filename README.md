@@ -329,5 +329,12 @@ Resolution : add additional nic card
 </p>
 </details> 
   
+   <details><summary>Bypass the ethnert HUB</summary>
+<p>
 
+With a NIC Card with multiple outputs, If you don't need more than one server and too long distance (ie a studio)... you can bypass the usage of the ethernet hub ...
+Worked with HP NC360T (low profile) between HP400G7 and direct cable to HP600G3SFF (SG Server) without any hub.
   
+It should work with a backup server but you need to test it. 
+</p>
+</details> 
