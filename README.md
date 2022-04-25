@@ -148,6 +148,7 @@ No source code will be provided.
 | DIY              |HP EliteDesk 800 G3 Mini                        |i5 7700                            | USFF           |----          |----   |
 | DIY              |HP Elitedesk 800 G5                             |i5 9500T                           |----            |----          |----   |
 | DIY              |HP Elitedesk G2                                 |i5 6500T                           |----            |8             |----   |
+| DIY              |HP Z220 (C216 chipset)                          |i7 3770                           | SFF            |12 (12.8.0.320)            |----   |
 | DIY              |Lenovo M93P tiny                                |i5 4570T                           | USFF           |----          |----   |
 | DIY              |Lenovo thinkcentre M900-tiny                    |i5 6500T                           |----            |----          |----   |
 
