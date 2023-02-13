@@ -6,6 +6,8 @@ This page is a compilation on what you'll find on [Groupdiy](https://groupdiy.co
 
 No source code will be provided.
 
+> # [SUBMIT A NEW CONFIGURATION HERE](https://github.com/TheLazyGeekGuy/DIY-Waves-Soundgrid-Server/issues/new?assignees=TheLazyGeekGuy&labels=enhancement&template=report-a-working-configuration.md&title=)
+
 
   ### [SoundGrid Certification Courses](https://www.waves.com/courses/soundgrid-certification-courses)
 
