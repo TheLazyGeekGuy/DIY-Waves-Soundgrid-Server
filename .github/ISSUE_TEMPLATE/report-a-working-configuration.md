@@ -11,7 +11,8 @@ assignees: TheLazyGeekGuy
 
 
 MotherBoard :
-CPU:
+CPU :
+RAM :
 Ethernet :
 Price :
 H-Reverb Test result :
