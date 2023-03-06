@@ -113,6 +113,7 @@ No source code will be provided.
 | DIY              |Acer N4660G                                     |i7 8700                            |----            |----          |----           |
 | DIY              |ASRock H110M DVS                                |i5 7400                            |----            |----          |----   |       
 | DIY              |ASRock H510M[^nic]                              |i7 11700K                          | ITX            |----          |----   |       
+| DIY              |ASUS B85 Plus                                   |I5 4570 S                          | ITX            |----          |----   |       
 | DIY              |Asus P79                                        |i7 3930x                           |----            |----          |----   |
 | DIY              |Asus Z87-K C2                                   |i7 4770                            |----            |11            |----   |
 | DIY              |Asus H81M-K motherboard                         |i7 4771                            |----            |14            |----   |
@@ -181,7 +182,7 @@ No source code will be provided.
     - Intel I210-T1 Ethernet Server Adapter - PCIe 2.1 lowprofil - around 60€
     - Intel EXPI9402PT 
     - Intel Chipsets 000 series, I219V seem to work fine. Intel PCIe LAN card can work.
-    - Realtek 8111x should work (Success with 8111H and 8111B and r8169) *
+    - Realtek 8111x should work (Success with 8111H and 8111B and R8169) :
 
 ## FAQ
 
