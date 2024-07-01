@@ -1,5 +1,13 @@
 <!-- This content will not appear in the rendered Markdown -->
 
+# SoundGrid Studio Update - May 2024
+
+Waves has announced a major update for StudioRack and SoundGrid Studio, with significant changes affecting SoundGrid Studio. Notably, the SoundGrid server will no longer be supported in future versions of StudioRack. 
+
+For full details, visit the official [announcement](https://www.waves.com/2024-update-studiorack-soundgrid-studio).
+
+In short : the projet dies with Waves v14 (Jun 2024)
+
 # DIY Waves Soundgrid Server
 
 This page is a compilation on what you'll find on [Groupdiy](https://groupdiy.com/threads/diy-compatible-waves-soundgrid-server.71385/) [GearSpace](https://gearspace.com/board/music-computers/1311451-diy-waves-soundgrid-server-2020-edition.html) thanks to `krabbencutter` or [facebook](https://www.facebook.com/groups/842878673081651) thanks to `Kalfelz Wusik William`. 
