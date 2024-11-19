@@ -143,6 +143,7 @@ No source code will be provided.
 | DIY              |Gigabyte H270N                                  |i7 7700K                           |----            |----          |----   |
 | DIY              |Gigabyte GA-Z170X-UD5                           |i7 7500                            |----            |----          |----   |
 | DIY              |Gigabyte Z370P D3                               |i5 9600k                           |----            |----          |----   |
+| DIY              |Gigabyte z590I vision D                         |i9 10900K                          |----            |----          |----   |
 | DIY              |HP Z240 workstation                             |i7 6700                            |----            |----          |----   |
 
 #### Rack server
