@@ -141,6 +141,7 @@ No source code will be provided.
 | DIY              |Gigabyte IMB410TN                               |i7 8700                            |----            |----          |----   |
 | DIY              |Gigabyte H410M S2H (r8169 NIC)                  |i5 10400                           |----            |----          |----   |
 | DIY              |Gigabyte H270N                                  |i7 7700K                           |----            |----          |----   |
+| DIY              |Gigabyte GA-Z170X-UD5                           |i7 7500                            |----            |----          |----   |
 | DIY              |Gigabyte Z370P D3                               |i5 9600k                           |----            |----          |----   |
 | DIY              |HP Z240 workstation                             |i7 6700                            |----            |----          |----   |
 
