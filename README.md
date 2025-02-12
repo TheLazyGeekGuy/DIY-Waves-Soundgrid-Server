@@ -76,6 +76,7 @@ No source code will be provided.
 | Official         |Gigabyte GA-IMB410N[^11]                     |i7 10700                             |----            |NA           |$2449   / |
 | Official         |Gigabyte W480M[^9]                           |i9 10900K                             |----            |NA           |$3499   / |
 | Official         |Gigabyte W480M[^10]                          |i9 10900K                             |----            |NA           |$3999   / |
+| Official         |Gigabyte MH610FI-WV (custom)                 |i9 14900                              |----             |NA           |$4499 / |
 
 [^9]: Titan SoundGrid Server [Specification](https://www.waves.com/hardware/titan-soundgrid-server) 
 [^10]: Titan-R SoundGrid Server [Specification](https://www.waves.com/hardware/titan-soundgrid-server) 
