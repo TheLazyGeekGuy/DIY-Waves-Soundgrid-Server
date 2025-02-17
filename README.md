@@ -400,9 +400,9 @@ It should work with a backup server but you need to test it.
 </details> 
 
 
-# StudioRack "Alternatives"
+# StudioRack "Alternatives" for DAWs
 
-For those which wont able to use offloading from their DAW, here are some other way to offload to another computer :
+For those who can't use offloading directly from their DAW, here are some alternative methods to offload processing to another computer using Audiogridder and VEP Pro:
 
 ## AudioGridder (FREE)
 
