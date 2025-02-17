@@ -1,5 +1,13 @@
 <!-- This content will not appear in the rendered Markdown -->
 
+# DIY Waves Soundgrid Server
+
+This page is a compilation on what you'll find on [Groupdiy](https://groupdiy.com/threads/diy-compatible-waves-soundgrid-server.71385/) [GearSpace](https://gearspace.com/board/music-computers/1311451-diy-waves-soundgrid-server-2020-edition.html) thanks to `krabbencutter` or [facebook](https://www.facebook.com/groups/842878673081651) thanks to `Kalfelz Wusik William`. 
+
+No source code will be provided.
+
+> # [SUBMIT A NEW CONFIGURATION HERE](https://github.com/TheLazyGeekGuy/DIY-Waves-Soundgrid-Server/issues/new?assignees=TheLazyGeekGuy&labels=enhancement&template=report-a-working-configuration.md&title=)
+
 
 <details><summary>What is Waves SoundGrid Studio ? </summary>
 <p>
@@ -12,9 +20,9 @@
 <details><summary>Waves 2024 Statement </summary>
 <p>
   
-      As of February 2025, the latest version of Waves SoundGrid Studio is **V14**. However, Waves has announced that future versions of StudioRack, starting from June 2024, will no longer support SoundGrid Studio. This change means that the ability to offload plugin processing from StudioRack to a SoundGrid server via SoundGrid Studio will be discontinued in upcoming releases. citeturn0search2
+      As of February 2025, the latest version of Waves SoundGrid Studio is **V14**. However, Waves has announced that future versions of StudioRack, starting from June 2024, will no longer support SoundGrid Studio. This change means that the ability to offload plugin processing from StudioRack to a SoundGrid server via SoundGrid Studio will be discontinued in upcoming releases. 
 
-      For users currently utilizing SoundGrid Studio, it remains functional with Waves plugins up to version V14. To maintain compatibility and continue offloading plugin processing, it's advisable not to update to newer versions of StudioRack or Waves plugins beyond V14. Waves has committed to assisting users during this transition; for personalized support, you can contact Waves Customer Support. citeturn0search2
+      For users currently utilizing SoundGrid Studio, it remains functional with Waves plugins up to version V14. To maintain compatibility and continue offloading plugin processing, it's advisable not to update to newer versions of StudioRack or Waves plugins beyond V14. Waves has committed to assisting users during this transition; for personalized support, you can contact Waves Customer Support. 
 
       In summary, while SoundGrid Studio has not been officially discontinued, its integration with future versions of StudioRack and newer Waves plugins will cease. Users relying on this setup should consider maintaining their current software versions or exploring alternative solutions for their audio processing needs. 
   
@@ -24,20 +32,16 @@
 <details><summary>Can i still use SoundGrid Studio ?</summary>
 <p>
   
-      Yes, **SoundGrid Studio** can still be utilized in Front-of-House (FOH) environments. It remains compatible with Waves plugins up to version V14, allowing for real-time processing and low-latency monitoring. However, it's important to note that future versions of Waves plugins and StudioRack will not support SoundGrid Studio. Therefore, to maintain compatibility, it's advisable to continue using the current versions of Waves plugins and StudioRack. citeturn0search3
+      Yes, **SoundGrid Studio** can still be utilized in Front-of-House (FOH) environments. It remains compatible with Waves plugins up to version V14, allowing for real-time processing and low-latency monitoring. However, it's important to note that future versions of Waves plugins and StudioRack will not support SoundGrid Studio. Therefore, to maintain compatibility, it's advisable to continue using the current versions of Waves plugins and StudioRack.
 
-      For FOH applications, Waves offers various SoundGrid interfaces that integrate seamlessly with SoundGrid Studio, providing ultra-low latency and high-quality audio processing. These interfaces are designed to enhance live sound setups by enabling the use of Waves plugins in real-time. citeturn0search6
+      For FOH applications, Waves offers various SoundGrid interfaces that integrate seamlessly with SoundGrid Studio, providing ultra-low latency and high-quality audio processing. These interfaces are designed to enhance live sound setups by enabling the use of Waves plugins in real-time.
 
       In summary, while SoundGrid Studio is still operational for FOH users, staying updated with the latest compatible versions of Waves plugins and StudioRack is essential to ensure continued support and functionality. 
   
 </p>
 </details>
 
-
-
-
-
-# Waves SoundGrid Studio vs. StudioRack - Version Comparison
+### Waves SoundGrid Studio vs. StudioRack - Version Comparison
 
 | Feature                         | SoundGrid Studio (V14) | StudioRack (V14) | StudioRack (Future Versions) |
 |---------------------------------|------------------------|------------------|------------------------------|
@@ -56,17 +60,7 @@
 - **FOH users** should consider alternatives like **Waves SuperRack** for live sound processing.  
 
 🚨 **Recommendation:** If you're using SoundGrid Studio for offloading, avoid updating beyond Waves V14! 🚨
-
-
-# DIY Waves Soundgrid Server
-
-This page is a compilation on what you'll find on [Groupdiy](https://groupdiy.com/threads/diy-compatible-waves-soundgrid-server.71385/) [GearSpace](https://gearspace.com/board/music-computers/1311451-diy-waves-soundgrid-server-2020-edition.html) thanks to `krabbencutter` or [facebook](https://www.facebook.com/groups/842878673081651) thanks to `Kalfelz Wusik William`. 
-
-No source code will be provided.
-
-> # [SUBMIT A NEW CONFIGURATION HERE](https://github.com/TheLazyGeekGuy/DIY-Waves-Soundgrid-Server/issues/new?assignees=TheLazyGeekGuy&labels=enhancement&template=report-a-working-configuration.md&title=)
-
-
+  
   ### [SoundGrid Certification Courses](https://www.waves.com/courses/soundgrid-certification-courses)
 
   Please consider learning more about SoundGrid technologie
@@ -406,10 +400,11 @@ It should work with a backup server but you need to test it.
 </details> 
 
 
-# StudioRack Alternatives
+# StudioRack "Alternatives"
 
+For those which wont able to use offloading from their DAW, here are some other way to offload to another computer :
 
-## AudioGridder
+## AudioGridder (FREE)
 
 If you're looking for a **StudioRack alternative** now that **Waves SoundGrid Studio** is being phased out, **AudioGridder** is a great option. AudioGridder is a **free, open-source** plugin host that allows you to **offload VST, VST3, and AU plugins** to a remote server, much like StudioRack with SoundGrid.  
 
@@ -421,7 +416,7 @@ If you're looking for a **StudioRack alternative** now that **Waves SoundGrid St
 
 While it doesn’t offer the same level of Waves integration, **AudioGridder** is a solid alternative for offloading processing and reducing CPU load in both studio and live setups.
 
-## Vienna Ensemble Pro  
+## Vienna Ensemble Pro (PAID)  
 
 If you're considering **Vienna Ensemble Pro (VEP)** as an alternative to **StudioRack** and **SoundGrid Studio**, it's a powerful but more complex solution.  
 
