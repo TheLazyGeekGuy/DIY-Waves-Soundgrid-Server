@@ -136,24 +136,25 @@ All waves configuration tag price don't reflect only gear but also come with :
 > Note R210 II: onboard Broadcom NICs are not compatible; add an Intel PRO/1000 PCIe card. On dual-port Intel cards, only the first port is recognized. Disable CPU Turbo in BIOS. [^r210ii_nic]
 
 #### Mini / SFF / USFF Towers
-| Official / DIY | MotherBoard / Config Name | CPU | Form Factor |H-Reverb Test [^0] | Price € / ratio [^7] |
-|---- |---- |---- |---- |---- |---- || Official         |Gigabyte MH610FI-WV (custom)                 |i9 14900                              |----             |NA           |$4499 / |
-| DIY |HP Elitedesk 600 G3 |i7 6500 | SFF |---- |---- |
-| DIY |HP Elitedesk 600 G3 |i7 6700 | SFF |20 (11034440) |150 (2022) / 7.5 |
-| DIY |HP Elitedesk 600 G3 |i7 7700 | SFF |22 (11034440) |160 (2022) / 7.27 |
-| DIY |HP Elitedesk 800 G1 |i7 4790 | SFF |---- |---- |
-| DIY |HP EliteDesk 800 G3 Mini |i5 7700 | USFF |---- |---- |
+| Official / DIY | MotherBoard / Config Name | CPU | Form Factor |H-Reverb Test [^0]| Price € / ratio [^7] |
+|---- |---- |---- |---- |---- |---- |
+| DIY |HP Elitedesk 600 G3 |i7 6500 |SFF |---- |---- |
+| DIY |HP Elitedesk 600 G3 |i7 6700 |SFF |20 (11034440) |150 (2022) / 7.5 |
+| DIY |HP Elitedesk 600 G3 |i7 7700 |SFF |22 (11034440) |160 (2022) / 7.27 |
+| DIY |HP Elitedesk 800 G1 |i7 4790 |SFF |---- |---- |
+| DIY |HP EliteDesk 800 G3 Mini |i5 7700 |USFF |---- |---- |
 | DIY |HP Elitedesk 800 G5 |i5 9500T |---- |---- |---- |
 | DIY |HP Elitedesk G2 |i5 6500T |---- |8 |---- |
-| DIY |HP Z220 (C216 chipset) |i7 3770 | SFF |12 (12.8.0.320) |---- |
-| DIY |Lenovo M93P tiny |i5 4570T | USFF |---- |---- |
+| DIY |HP Z220 (C216 chipset) |i7 3770 |SFF |12 (12.8.0.320) |---- |
+| DIY |Lenovo M93P tiny |i5 4570T |USFF |---- |---- |
 | DIY |Lenovo ThinkCentre M910q Tiny |i5-6500T |USFF |---- |---- |
 | DIY |Lenovo thinkcentre M900-tiny |i5 6500T |USFF |---- |---- |
-| DIY |HP ProDesk 600 G3 |i5 6500T | SFF |25 |120 (2024) / ---- |
-| DIY |HP EliteDesk 800 G5 SFF |i9 9900 | SFF |17 |650€ / ---- |
-| DIY |HP EliteDesk 800 G3 Mini[^hp800g3_fan] |i7 6700 | USFF |---- (tested v14, v12) |210 USD / ---- |
-| DIY |Dell OptiPlex 5000 Micro |i5 12500T | USFF |18 (V15) |600€ / ---- |
-| DIY |LattePanda Delta 432[^unsupported_flag] |Celeron N4120 | USFF / SBC |n/a (14.26.104.721; upgrade ok to 15.1.163.206) |132.49€ / ---- |
+| DIY |HP ProDesk 600 G3 |i5 6500T |SFF |25 |120 (2024) / ---- |
+| DIY |HP EliteDesk 800 G5 SFF |i9 9900 |SFF |17 |650€ / ---- |
+| DIY |HP EliteDesk 800 G3 Mini[^hp800g3_fan] |i7 6700 |USFF |---- (tested v14, v12) |210 USD / ---- |
+| DIY |Dell OptiPlex 5000 Micro |i5 12500T |USFF |18 (V15) |600€ / ---- |
+| DIY |LattePanda Delta 432[^unsupported_flag] |Celeron N4120 |USFF / SBC |n/a (14.26.104.721; upgrade ok to 15.1.163.206) |132.49€ / ---- |
+
 
 ### Bad ideas
 - Virtualisation (Vmware ESXI or other virtualisation solution) : run but will also keep failing as the server need REALTIME usage, spend more time doing music geeks !
